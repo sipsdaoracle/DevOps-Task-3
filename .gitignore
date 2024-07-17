@@ -1,3 +1,5 @@
 .env
 venv
-_pycache_
+messagin_systems/.env
+messagin_systems/_pychache_
+
