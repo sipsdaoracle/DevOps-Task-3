@@ -81,3 +81,26 @@ INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 22:48:53] "[33mGET /favicon.ico HTTP/1
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 22:48:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 22:48:57] "GET /sendmail?recipient=sosithwaqongqo@gmail.com&subject=Test%20Email&body=This%20is%20a%20test%20email%20from%20my%20messaging%20system HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 22:48:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.24:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:38] "GET /sendmail?recipient=sosithwaqongqo@gmail.com&subject=Test%20Email&body=This%20is%20a%20test%20email%20from%20my%20messaging%20system HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:38] "GET /sendmail?recipient=sosithwaqongqo@gmail.com&subject=Test%20Email&body=This%20is%20a%20test%20email%20from%20my%20messaging%20system HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-15 10:14:57
+INFO:root:Current Time: 2024-07-15 10:14:57
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:57] "GET /talktome HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-15 10:14:57
+INFO:root:Current Time: 2024-07-15 10:14:57
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:57] "GET /talktome HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:14:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
